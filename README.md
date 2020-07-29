@@ -1,5 +1,3 @@
-# THIS PROJECT IS DEPRECATED AND NOT MAINTAINED ANYMORE
-
 # Mashery Toolbelt
 
 CLI tool for Mashery API Management provisioning.
